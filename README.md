@@ -214,16 +214,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - [ ] Paginate Products List
 - [x] Make certain UI updates optimistic (like add to cart feature)
 
-## Credits & Attributions
-
-- Banner background image by [Jos Hoppenbrouwers](https://www.joshoppenbrouwers.com/) - Image was then manipulated using Photoshop.
-
-- Website design Inspired By [8theme XStore](https://xstore.8theme.com/elementor/demos/sneakers/).
-
-- [Pexels](https://www.pexels.com/) for Stock images
-
-- Nike.com for ["Jumpman" Logo](https://www.nike.com/jordan)
-
 ---
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`npx create-next-app@latest . --ts`](https://github.com/vercel/next.js/blob/canary/docs/basic-features/typescript.md).
